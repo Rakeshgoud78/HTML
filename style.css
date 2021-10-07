@@ -1,0 +1,18 @@
+*{
+    background-color: honeydew;
+}
+.tag-color{
+    color:chartreuse
+}
+#li-color{
+    color: darkorange;
+}
+h1{
+    padding: 30px 20px 10px 20px;
+    margin: 30px 10px 20px 5px;
+    border: 5px solid red;
+}
+a{
+    padding-right: 20px;
+    margin-right:;
+}
